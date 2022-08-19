@@ -1,0 +1,32 @@
+.tool-bar{
+    grid-column-start:1;
+    grid-column-end:4;
+    grid-row-start:1;
+    grid-row-end:13;
+}
+.tool-bar{
+    list-style:none;
+}
+.ul-tools{
+    width:100%;
+    height: 100%;
+    padding:5px 10px;
+}
+.ul-title{
+    cursor:pointer;
+    width:100%;
+    font-size:18px;
+    padding:5px;
+    padding-left: 10px;
+    margin-top:20px;
+    border-radius:3px;
+}
+.ul-items{
+    cursor:pointer;
+    width:100%;
+    font-size:15px;
+    padding:7px 5px;   
+}
+.ul-items:hover{
+    padding-left:10px;
+}

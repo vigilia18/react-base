@@ -1,0 +1,674 @@
+[
+    {
+        "name": "Parrafo",
+        "id": 1,
+        "target": "p",
+        "category": "text",
+        "cssDefault": [
+            {
+                "key": "color",
+                "value": "black"
+            },
+            {
+                "key": "fontSize",
+                "value": 17
+            },
+            {
+                "key": "display",
+                "value": "block"
+            },
+            {
+                "key": "fontFamily",
+                "value": "Arial"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": "soy una p"
+            },
+            {
+                "key": "name",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Titulo 1",
+        "id": 2,
+        "target": "h1",
+        "category": "text",
+        "cssDefault": [
+            {
+                "key": "color",
+                "value": "black"
+            },
+            {
+                "key": "fontSize",
+                "value": 25
+            },
+            {
+                "key": "display",
+                "value": "block"
+            },
+            {
+                "key": "fontFamily",
+                "value": "Arial"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "name",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Titulo 2",
+        "id": 3,
+        "target": "h2",
+        "category": "text",
+        "cssDefault": [
+            {
+                "key": "color",
+                "value": "black"
+            },
+            {
+                "key": "fontSize",
+                "value": 23
+            },
+            {
+                "key": "display",
+                "value": "block"
+            },
+            {
+                "key": "fontFamily",
+                "value": "Arial"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "name",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Titulo 3",
+        "id": 4,
+        "target": "h3",
+        "category": "text",
+        "cssDefault": [
+            {
+                "key": "color",
+                "value": "black"
+            },
+            {
+                "key": "fontSize",
+                "value": 20
+            },
+            {
+                "key": "display",
+                "value": "block"
+            },
+            {
+                "key": "fontFamily",
+                "value": "Arial"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "name",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Link",
+        "id": 5,
+        "target": "a",
+        "category": "text",
+        "cssDefault": [
+            {
+                "key": "color",
+                "value": "black"
+            },
+            {
+                "key": "background",
+                "value": "none"
+            },
+            {
+                "key": "fontSize",
+                "value": 20
+            },
+            {
+                "key": "display",
+                "value": "block"
+            },
+            {
+                "key": "fontFamily",
+                "value": "Arial"
+            },
+            {
+                "key": "textDecoration",
+                "value": "underline"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "href",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Cuadrado",
+        "id": 6,
+        "target": "div",
+        "category": "formas",
+        "cssDefault": [
+            {
+                "key": "width",
+                "value": 100
+            },
+            {
+                "key": "background",
+                "value": "none"
+            },
+            {
+                "key": "height",
+                "value": 100
+            },
+            {
+                "key": "borderWidth",
+                "value": 1
+            },
+            {
+                "key": "borderColor",
+                "value": "black"
+            },
+            {
+                "key": "borderRadius",
+                "value": 0
+            },
+            {
+                "key": "borderStyle",
+                "value": "solid"
+            },
+            {
+                "key": "borderShadown",
+                "value": "none"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "name",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Imagen",
+        "id": 7,
+        "target": "img",
+        "category": "imagenes",
+        "cssDefault": [
+            {
+                "key": "width",
+                "value": 100
+            },
+            {
+                "key": "height",
+                "value": 100
+            },
+            {
+                "key": "borderWidth",
+                "value": 0
+            },
+            {
+                "key": "borderColor",
+                "value": "black"
+            },
+            {
+                "key": "borderRadius",
+                "value": 0
+            },
+            {
+                "key": "borderStyle",
+                "value": "solid"
+            },
+            {
+                "key": "borderShadown",
+                "value": "none"
+            },
+            {
+                "key": "objectFit",
+                "value": "cover"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "src",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "name": "Resaltado",
+        "id": 8,
+        "target": "strong",
+        "category": "text",
+        "cssDefault": [
+            {
+                "key": "color",
+                "value": "black"
+            },
+            {
+                "key": "background",
+                "value": "yellow"
+            },
+            {
+                "key": "fontWeight",
+                "value": "bold"
+            },
+            {
+                "key": "fontSize",
+                "value": 17
+            },
+            {
+                "key": "display",
+                "value": "block"
+            },
+            {
+                "key": "fontFamily",
+                "value": "Arial"
+            },
+            {
+                "key": "margin",
+                "value": 0
+            },
+            {
+                "key": "marginRight",
+                "value": 0
+            },
+            {
+                "key": "marginLeft",
+                "value": 0
+            },
+            {
+                "key": "marginTop",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "padding",
+                "value": 0
+            },
+            {
+                "key": "marginBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingTop",
+                "value": 0
+            },
+            {
+                "key": "paddingLeft",
+                "value": 0
+            },
+            {
+                "key": "paddingBottom",
+                "value": 0
+            },
+            {
+                "key": "paddingRight",
+                "value": 0
+            }
+        ],
+        "attributes": [
+            {
+                "key": "value",
+                "value": ""
+            },
+            {
+                "key": "name",
+                "value": ""
+            }
+        ]
+    }
+]
